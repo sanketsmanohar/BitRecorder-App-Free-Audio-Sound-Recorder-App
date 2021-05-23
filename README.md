@@ -1,6 +1,7 @@
 # Free QR-Code/Barcode Scanner-Generator | BitScan App | BitGanga
 
 Free QR Code / Barcode Scanner, Generator - BitScan App  BitScan App 
+![BitRecorder App Poster](https://user-images.githubusercontent.com/70131027/119251999-73db3d80-bb5e-11eb-8594-fc8ee78e4d25.jpg)
 
 Google Play Store Download Link :- https://play.google.com/store/apps/details?id=com.bitganga.barcodescanner&hl=en_US
 
