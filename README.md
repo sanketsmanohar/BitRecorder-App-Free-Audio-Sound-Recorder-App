@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/70131027/119252044-b866d900-bb5e-11eb-
 
 ![BitRecorder App Poster](https://user-images.githubusercontent.com/70131027/119251999-73db3d80-bb5e-11eb-8594-fc8ee78e4d25.jpg)
 
-Google Play Store Download Link :- https://play.google.com/store/apps/details?id=com.bitganga.barcodescanner&hl=en_US
+Google Play Store Download Link :- https://play.google.com/store/apps/details?id=com.bitganga.bitrecord&hl=en_US
 
 
 This App Contains : - 
